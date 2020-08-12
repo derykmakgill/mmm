@@ -15,7 +15,7 @@ layout: home
 
 ---
 
-<section class="archive-post-list">
+
   <h2>Articles</h2>
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
@@ -28,4 +28,4 @@ layout: home
        {% if forloop.last %}</ul>{% endif %}
    {% endfor %}
 
-</section>
+
