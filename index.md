@@ -11,3 +11,18 @@ I’m a software engineer working at the intersection of entertainment and techn
 {% endfor %}</p>
 
 ---
+
+<section class="archive-post-list">
+  <h2>Articles</h2>
+   {% for post in site.posts %}
+       {% assign currentDate = post.date | date: "%Y" %}
+       {% if currentDate != myDate %}
+           {% unless forloop.first %}</ul>{% endunless %}
+           <ul style="list-style: none; padding-left: 0px;">
+           {% assign myDate = currentDate %}
+       {% endif %}
+       <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+       {% if forloop.last %}</ul>{% endif %}
+   {% endfor %}
+
+</section>
