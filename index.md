@@ -16,7 +16,7 @@ layout: home
 ---
 
 
-<h2>Articles</h2>
+<div><h2>Articles</h2>
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
@@ -28,4 +28,4 @@ layout: home
        {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
-
+</div>
