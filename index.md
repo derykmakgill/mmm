@@ -2,12 +2,7 @@
 layout: home
 ---
 
-Writer and researcher. I used to work in marketing.
-
----
-
-
-<div><h2>Articles</h2>
+<div>
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
        {% if currentDate != myDate %}
@@ -15,7 +10,7 @@ Writer and researcher. I used to work in marketing.
     <ul style="list-style: none; padding-left: 0px;">
            {% assign myDate = currentDate %}
        {% endif %}
- <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+ <li><time datetime="{{post.date}}"> {{post.date}} </time> <a href="{{ post.url }}">{{ post.title }}</a></li>
        {% if forloop.last %}</ul>{% endif %}
 {% endfor %}
 
