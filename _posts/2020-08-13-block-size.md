@@ -1,6 +1,6 @@
 ---
 layout: post 
-title: Why Remove Bitcoin's Limits Now?
+title: The limits are too damn low!
 ---
 
 In September 2019 I wrote that I was [worried](https://twitter.com/_mkgll/status/1170906370473938944) about the lack of seriousness for removing the Bitcoin Cash block size limit.
