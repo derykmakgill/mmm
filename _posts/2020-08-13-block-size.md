@@ -15,6 +15,8 @@ In this essay I argue that the mythical "when we need it" will never come, and t
 
 ## Goldfish brains
 
+*"What is past is prologue." - The Tempest*
+
 
 >I’m the guy who went over the blockchain stuff in Satoshi’s first cut of the bitcoin code. Satoshi didn’t have a 1MB limit in it. The limit was originally Hal Finney’s idea. Both Satoshi and I objected that it wouldn’t scale at 1MB. Hal was concerned about a potential DoS attack though, and after discussion, Satoshi agreed. The 1MB limit was there by the time Bitcoin launched. But all 3 of us agreed that 1MB had to be temporary because it would never scale.
 
