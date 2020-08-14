@@ -25,3 +25,10 @@ In this essay I argue that the mythical "when we need it" will never come, and t
 >Strongly agree.  My suggestion 2MB now, then 4MB in 2 years and 8MB in 4years then re-asses. 
 
 >I believe that Satoshi expected most people to use some sort of lightweight node, with only companies and true enthusiasts being full nodes. Mike Hearn's view is similar to Satoshi's view. I strongly disagree with the idea that changing the max block size is a violation of the "Bitcoin currency guarantees". Satoshi said that the max block size could be increased, and the max block size is never mentioned in any of the standard descriptions of the Bitcoin system.”
+
+
+* * *
+
+[Deryk Makgill](/)
+
+* * *
