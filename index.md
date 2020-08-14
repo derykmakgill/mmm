@@ -2,6 +2,8 @@
 layout: home
 ---
 
+# Deryk Makgill
+
 <section id="blog">
    {% for post in site.posts %}
        {% assign currentDate = post.date | date: "%Y" %}
