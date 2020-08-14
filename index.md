@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Deryk Makgill
+# mkgll
 
 <section id="blog">
    {% for post in site.posts %}
