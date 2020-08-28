@@ -62,9 +62,3 @@ OK, so _Wired_ had an important insight, but missed the real story, and misquote
 So, three cheers for [John McPhee](http://www.johnmcphee.com/), for [_The New Yorker_](http://newyorker.com), and for their [corps of fact-checkers](http://www.newyorker.com/reporting/2009/02/09/090209fa_fact_mcphee). I'm proud that my subscription to _The New Yorker_ supports the fact-checkers in some small way.
 
 As for _Wired_, I have one closing thought: _All we want are the facts, ma'am._
-
-* * *
-
-[Peter Norvig](/)
-
-* * *
