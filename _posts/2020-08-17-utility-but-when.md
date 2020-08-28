@@ -2,6 +2,7 @@
 layout: post
 title: Utility...but in the future
 image: https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5f1879d9b294e0f3759d74f5_Barack_Obama_and_Shinzo_Abe_at_Sukyabashi_Jiro_April_2014.jpg
+description: Many big-block Bitcoin (BCH or BSV) investors correctly argue that Bitcoin needs to be useful as money to be valued as money. They err however in believing that something is wrong when the BTC chain is valued greater than BCH or BSV despite being currently less useful than both forks. 
 ---
 
 Many big-block Bitcoin (BCH or BSV) investors correctly argue that Bitcoin needs to be useful as money to be valued as money. They err however in believing that something is wrong when the BTC chain is valued greater than BCH or BSV despite being currently less useful than both forks. 
