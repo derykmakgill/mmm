@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# mkgll
+# mkgll's blog
 
 <section id="blog">
    {% for post in site.posts %}
